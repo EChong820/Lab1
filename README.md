@@ -1,4 +1,6 @@
+Below is the link to my HTML map for Lab 1 featuring the distribution of academic institutions and parks across Vancouver!
 
+https://github.com/EChong820/Lab1/tree/main
 
 Please examine the map below!
 
